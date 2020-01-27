@@ -13,8 +13,7 @@
 - Graphql playground available under localhost:4000
 
 - test users: 
--- bob@test.at bob
--- mike@test.at mike
+- bob@test.at bob and mike@test.at mike
 
 ## Structure
 
