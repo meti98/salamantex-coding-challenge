@@ -1,0 +1,6 @@
+[submodule "salamantex-coding-challenge-client"]
+	path = salamantex-coding-challenge-client
+	url = https://github.com/meti98/salamantex-coding-challenge-client
+[submodule "salamantex-coding-challenge-server"]
+	path = salamantex-coding-challenge-server
+	url = https://github.com/meti98/salamantex-coding-challenge-server
