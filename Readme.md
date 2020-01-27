@@ -2,6 +2,10 @@
 
 ## How to run this project
 
+- git clone --recursive https://github.com/meti98/salamantex-coding-challenge
+
+- cd salamantex-coding-challenge
+
 - docker-compose up
 
 - React app available under localhost:3000
