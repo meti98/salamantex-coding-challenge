@@ -8,6 +8,10 @@
 
 - Graphql playground available under localhost:4000
 
+- test users: 
+-- bob@test.at bob
+-- mike@test.at mike
+
 ## Structure
 
 -  `salamantex-coding-challenge-server` - Graphql API with prisma and nexus in typescript
